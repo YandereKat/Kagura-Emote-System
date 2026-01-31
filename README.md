@@ -5,4 +5,5 @@ This is simply a list of scripts that I use for that specific system, to showcas
 
 **Why don't I use --!strict?**  
 This project has been started over a year ago - at that point I didn't care about strict typing.  
+Integrating script typing into hundreds of scripts isn't worth it at this point.  
 I use strict typing on all new projects/commissions.
